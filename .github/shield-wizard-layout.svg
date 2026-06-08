@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1363.00 457.82">
+  <style>
+    .key-bg { fill: #f5f5f5; stroke: #d4d4d4; stroke-width: 1; }
+    .key-index { fill: #171717; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .key-part { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; text-anchor: middle; dominant-baseline: central; }
+    @media (prefers-color-scheme: dark) {
+      .key-bg { fill: #2a2a2a; stroke: #404040; }
+      .key-index { fill: #e5e5e5; }
+    }
+    .key-bg.part-0 { stroke: #f59e0b; }
+    .key-part.part-0 { fill: #f59e0b; }
+    .key-bg.part-1 { stroke: #14b8a6; }
+    .key-part.part-1 { fill: #14b8a6; }
+  </style>
+  <g>
+    <path class="key-bg part-0" d="M 138.00,22.00 L 196.00,22.00 Q 200.00,22.00 200.00,26.00 L 200.00,84.00 Q 200.00,88.00 196.00,88.00 L 138.00,88.00 Q 134.00,88.00 134.00,84.00 L 134.00,26.00 Q 134.00,22.00 138.00,22.00 Z" />
+    <path class="key-bg part-0" d="M 218.50,29.00 L 276.50,29.00 Q 280.50,29.00 280.50,33.00 L 280.50,91.00 Q 280.50,95.00 276.50,95.00 L 218.50,95.00 Q 214.50,95.00 214.50,91.00 L 214.50,33.00 Q 214.50,29.00 218.50,29.00 Z" />
+    <path class="key-bg part-0" d="M 288.50,29.00 L 346.50,29.00 Q 350.50,29.00 350.50,33.00 L 350.50,91.00 Q 350.50,95.00 346.50,95.00 L 288.50,95.00 Q 284.50,95.00 284.50,91.00 L 284.50,33.00 Q 284.50,29.00 288.50,29.00 Z" />
+    <path class="key-bg part-0" d="M 358.50,22.00 L 416.50,22.00 Q 420.50,22.00 420.50,26.00 L 420.50,84.00 Q 420.50,88.00 416.50,88.00 L 358.50,88.00 Q 354.50,88.00 354.50,84.00 L 354.50,26.00 Q 354.50,22.00 358.50,22.00 Z" />
+    <path class="key-bg part-0" d="M 443.41,33.91 L 500.15,45.97 Q 504.06,46.80 503.23,50.71 L 491.17,107.44 Q 490.34,111.36 486.42,110.53 L 429.69,98.47 Q 425.78,97.64 426.61,93.72 L 438.67,36.99 Q 439.50,33.08 443.41,33.91 Z" />
+    <path class="key-bg part-0" d="M 511.88,48.46 L 568.62,60.52 Q 572.53,61.35 571.70,65.27 L 559.64,122.00 Q 558.81,125.91 554.89,125.08 L 498.16,113.02 Q 494.25,112.19 495.08,108.28 L 507.14,51.54 Q 507.97,47.63 511.88,48.46 Z" />
+    <path class="key-bg part-0" d="M 580.35,63.02 L 637.09,75.08 Q 641.00,75.91 640.17,79.82 L 628.11,136.55 Q 627.28,140.46 623.36,139.63 L 566.63,127.57 Q 562.72,126.74 563.55,122.83 L 575.61,66.10 Q 576.44,62.19 580.35,63.02 Z" />
+    <path class="key-bg part-0" d="M 648.82,77.57 L 705.56,89.63 Q 709.47,90.46 708.64,94.37 L 696.58,151.11 Q 695.75,155.02 691.83,154.19 L 635.10,142.13 Q 631.19,141.30 632.02,137.38 L 644.08,80.65 Q 644.91,76.74 648.82,77.57 Z" />
+    <path class="key-bg part-0" d="M 124.00,92.00 L 182.00,92.00 Q 186.00,92.00 186.00,96.00 L 186.00,154.00 Q 186.00,158.00 182.00,158.00 L 124.00,158.00 Q 120.00,158.00 120.00,154.00 L 120.00,96.00 Q 120.00,92.00 124.00,92.00 Z" />
+    <path class="key-bg part-0" d="M 204.50,99.00 L 297.50,99.00 Q 301.50,99.00 301.50,103.00 L 301.50,161.00 Q 301.50,165.00 297.50,165.00 L 204.50,165.00 Q 200.50,165.00 200.50,161.00 L 200.50,103.00 Q 200.50,99.00 204.50,99.00 Z" />
+    <path class="key-bg part-0" d="M 309.50,99.00 L 367.50,99.00 Q 371.50,99.00 371.50,103.00 L 371.50,161.00 Q 371.50,165.00 367.50,165.00 L 309.50,165.00 Q 305.50,165.00 305.50,161.00 L 305.50,103.00 Q 305.50,99.00 309.50,99.00 Z" />
+    <path class="key-bg part-0" d="M 394.62,95.10 L 451.36,107.16 Q 455.27,107.99 454.44,111.91 L 442.38,168.64 Q 441.55,172.55 437.63,171.72 L 380.90,159.66 Q 376.99,158.83 377.82,154.92 L 389.88,98.18 Q 390.71,94.27 394.62,95.10 Z" />
+    <path class="key-bg part-0" d="M 463.09,109.66 L 519.83,121.72 Q 523.74,122.55 522.91,126.46 L 510.85,183.19 Q 510.02,187.10 506.11,186.27 L 449.37,174.21 Q 445.46,173.38 446.29,169.47 L 458.35,112.74 Q 459.18,108.82 463.09,109.66 Z" />
+    <path class="key-bg part-0" d="M 531.57,124.21 L 588.30,136.27 Q 592.21,137.10 591.38,141.01 L 579.32,197.75 Q 578.49,201.66 574.58,200.83 L 517.84,188.77 Q 513.93,187.94 514.76,184.02 L 526.82,127.29 Q 527.65,123.38 531.57,124.21 Z" />
+    <path class="key-bg part-0" d="M 600.04,138.76 L 656.77,150.82 Q 660.68,151.65 659.85,155.57 L 647.79,212.30 Q 646.96,216.21 643.05,215.38 L 586.31,203.32 Q 582.40,202.49 583.23,198.58 L 595.29,141.84 Q 596.12,137.93 600.04,138.76 Z" />
+    <path class="key-bg part-0" d="M 110.00,162.00 L 168.00,162.00 Q 172.00,162.00 172.00,166.00 L 172.00,224.00 Q 172.00,228.00 168.00,228.00 L 110.00,228.00 Q 106.00,228.00 106.00,224.00 L 106.00,166.00 Q 106.00,162.00 110.00,162.00 Z" />
+    <path class="key-bg part-0" d="M 190.50,169.00 L 301.00,169.00 Q 305.00,169.00 305.00,173.00 L 305.00,231.00 Q 305.00,235.00 301.00,235.00 L 190.50,235.00 Q 186.50,235.00 186.50,231.00 L 186.50,173.00 Q 186.50,169.00 190.50,169.00 Z" />
+    <path class="key-bg part-0" d="M 313.00,169.00 L 371.00,169.00 Q 375.00,169.00 375.00,173.00 L 375.00,231.00 Q 375.00,235.00 371.00,235.00 L 313.00,235.00 Q 309.00,235.00 309.00,231.00 L 309.00,173.00 Q 309.00,169.00 313.00,169.00 Z" />
+    <path class="key-bg part-0" d="M 400.61,167.94 L 457.34,180.00 Q 461.26,180.83 460.43,184.74 L 448.37,241.47 Q 447.53,245.39 443.62,244.56 L 386.89,232.50 Q 382.98,231.67 383.81,227.75 L 395.87,171.02 Q 396.70,167.11 400.61,167.94 Z" />
+    <path class="key-bg part-0" d="M 469.08,182.49 L 525.81,194.55 Q 529.73,195.38 528.90,199.30 L 516.84,256.03 Q 516.01,259.94 512.09,259.11 L 455.36,247.05 Q 451.45,246.22 452.28,242.31 L 464.34,185.57 Q 465.17,181.66 469.08,182.49 Z" />
+    <path class="key-bg part-0" d="M 537.55,197.05 L 594.29,209.11 Q 598.20,209.94 597.37,213.85 L 585.31,270.58 Q 584.48,274.49 580.56,273.66 L 523.83,261.60 Q 519.92,260.77 520.75,256.86 L 532.81,200.13 Q 533.64,196.21 537.55,197.05 Z" />
+    <path class="key-bg part-0" d="M 606.02,211.60 L 662.76,223.66 Q 666.67,224.49 665.84,228.40 L 653.78,285.14 Q 652.95,289.05 649.03,288.22 L 592.30,276.16 Q 588.39,275.33 589.22,271.41 L 601.28,214.68 Q 602.11,210.77 606.02,211.60 Z" />
+    <path class="key-bg part-0" d="M 96.00,249.50 L 154.00,249.50 Q 158.00,249.50 158.00,253.50 L 158.00,311.50 Q 158.00,315.50 154.00,315.50 L 96.00,315.50 Q 92.00,315.50 92.00,311.50 L 92.00,253.50 Q 92.00,249.50 96.00,249.50 Z" />
+    <path class="key-bg part-0" d="M 176.50,239.00 L 322.00,239.00 Q 326.00,239.00 326.00,243.00 L 326.00,301.00 Q 326.00,305.00 322.00,305.00 L 176.50,305.00 Q 172.50,305.00 172.50,301.00 L 172.50,243.00 Q 172.50,239.00 176.50,239.00 Z" />
+    <path class="key-bg part-0" d="M 334.00,239.00 L 392.00,239.00 Q 396.00,239.00 396.00,243.00 L 396.00,301.00 Q 396.00,305.00 392.00,305.00 L 334.00,305.00 Q 330.00,305.00 330.00,301.00 L 330.00,243.00 Q 330.00,239.00 334.00,239.00 Z" />
+    <path class="key-bg part-0" d="M 420.29,243.69 L 477.03,255.75 Q 480.94,256.58 480.11,260.49 L 468.05,317.22 Q 467.22,321.13 463.30,320.30 L 406.57,308.24 Q 402.66,307.41 403.49,303.50 L 415.55,246.77 Q 416.38,242.85 420.29,243.69 Z" />
+    <path class="key-bg part-0" d="M 488.76,258.24 L 545.50,270.30 Q 549.41,271.13 548.58,275.04 L 536.52,331.78 Q 535.69,335.69 531.77,334.86 L 475.04,322.80 Q 471.13,321.97 471.96,318.05 L 484.02,261.32 Q 484.85,257.41 488.76,258.24 Z" />
+    <path class="key-bg part-0" d="M 557.23,272.79 L 613.97,284.85 Q 617.88,285.68 617.05,289.60 L 604.99,346.33 Q 604.16,350.24 600.24,349.41 L 543.51,337.35 Q 539.60,336.52 540.43,332.61 L 552.49,275.87 Q 553.32,271.96 557.23,272.79 Z" />
+    <path class="key-bg part-0" d="M 625.70,287.35 L 682.44,299.41 Q 686.35,300.24 685.52,304.15 L 673.46,360.88 Q 672.63,364.80 668.71,363.96 L 611.98,351.91 Q 608.07,351.07 608.90,347.16 L 620.96,290.43 Q 621.79,286.52 625.70,287.35 Z" />
+    <path class="key-bg part-0" d="M 26.00,319.50 L 84.00,319.50 Q 88.00,319.50 88.00,323.50 L 88.00,381.50 Q 88.00,385.50 84.00,385.50 L 26.00,385.50 Q 22.00,385.50 22.00,381.50 L 22.00,323.50 Q 22.00,319.50 26.00,319.50 Z" />
+    <path class="key-bg part-0" d="M 96.00,319.50 L 154.00,319.50 Q 158.00,319.50 158.00,323.50 L 158.00,381.50 Q 158.00,385.50 154.00,385.50 L 96.00,385.50 Q 92.00,385.50 92.00,381.50 L 92.00,323.50 Q 92.00,319.50 96.00,319.50 Z" />
+    <path class="key-bg part-0" d="M 166.00,319.50 L 224.00,319.50 Q 228.00,319.50 228.00,323.50 L 228.00,381.50 Q 228.00,385.50 224.00,385.50 L 166.00,385.50 Q 162.00,385.50 162.00,381.50 L 162.00,323.50 Q 162.00,319.50 166.00,319.50 Z" />
+    <path class="key-bg part-0" d="M 246.50,309.00 L 339.50,309.00 Q 343.50,309.00 343.50,313.00 L 343.50,371.00 Q 343.50,375.00 339.50,375.00 L 246.50,375.00 Q 242.50,375.00 242.50,371.00 L 242.50,313.00 Q 242.50,309.00 246.50,309.00 Z" />
+    <path class="key-bg part-0" d="M 381.05,310.49 L 472.01,329.82 Q 475.93,330.65 475.10,334.57 L 463.04,391.30 Q 462.21,395.21 458.29,394.38 L 367.32,375.04 Q 363.41,374.21 364.24,370.30 L 376.30,313.57 Q 377.13,309.65 381.05,310.49 Z" />
+    <path class="key-bg part-0" d="M 484.48,328.89 L 678.15,370.06 Q 682.07,370.89 681.23,374.80 L 669.18,431.54 Q 668.34,435.45 664.43,434.62 L 470.76,393.45 Q 466.85,392.62 467.68,388.71 L 479.74,331.97 Q 480.57,328.06 484.48,328.89 Z" />
+    <path class="key-bg part-1" d="M 738.25,78.98 L 794.99,66.92 Q 798.90,66.09 799.73,70.01 L 811.79,126.74 Q 812.62,130.65 808.71,131.48 L 751.98,143.54 Q 748.06,144.37 747.23,140.46 L 735.17,83.73 Q 734.34,79.82 738.25,78.98 Z" />
+    <path class="key-bg part-1" d="M 806.72,64.43 L 863.46,52.37 Q 867.37,51.54 868.20,55.45 L 880.26,112.18 Q 881.09,116.10 877.18,116.93 L 820.45,128.99 Q 816.53,129.82 815.70,125.91 L 803.64,69.17 Q 802.81,65.26 806.72,64.43 Z" />
+    <path class="key-bg part-1" d="M 875.19,49.88 L 931.93,37.82 Q 935.84,36.99 936.67,40.90 L 948.73,97.63 Q 949.56,101.54 945.65,102.37 L 888.92,114.43 Q 885.00,115.27 884.17,111.35 L 872.11,54.62 Q 871.28,50.71 875.19,49.88 Z" />
+    <path class="key-bg part-1" d="M 943.66,35.32 L 1000.40,23.26 Q 1004.31,22.43 1005.14,26.34 L 1017.20,83.08 Q 1018.03,86.99 1014.12,87.82 L 957.39,99.88 Q 953.47,100.71 952.64,96.80 L 940.58,40.07 Q 939.75,36.15 943.66,35.32 Z" />
+    <path class="key-bg part-1" d="M 1027.00,22.00 L 1085.00,22.00 Q 1089.00,22.00 1089.00,26.00 L 1089.00,84.00 Q 1089.00,88.00 1085.00,88.00 L 1027.00,88.00 Q 1023.00,88.00 1023.00,84.00 L 1023.00,26.00 Q 1023.00,22.00 1027.00,22.00 Z" />
+    <path class="key-bg part-1" d="M 1097.00,29.00 L 1155.00,29.00 Q 1159.00,29.00 1159.00,33.00 L 1159.00,91.00 Q 1159.00,95.00 1155.00,95.00 L 1097.00,95.00 Q 1093.00,95.00 1093.00,91.00 L 1093.00,33.00 Q 1093.00,29.00 1097.00,29.00 Z" />
+    <path class="key-bg part-1" d="M 1167.00,29.00 L 1295.00,29.00 Q 1299.00,29.00 1299.00,33.00 L 1299.00,91.00 Q 1299.00,95.00 1295.00,95.00 L 1167.00,95.00 Q 1163.00,95.00 1163.00,91.00 L 1163.00,33.00 Q 1163.00,29.00 1167.00,29.00 Z" />
+    <path class="key-bg part-1" d="M 717.89,154.88 L 774.62,142.82 Q 778.53,141.99 779.36,145.90 L 791.42,202.63 Q 792.25,206.54 788.34,207.38 L 731.61,219.43 Q 727.70,220.27 726.87,216.35 L 714.81,159.62 Q 713.97,155.71 717.89,154.88 Z" />
+    <path class="key-bg part-1" d="M 786.36,140.32 L 843.09,128.26 Q 847.00,127.43 847.83,131.34 L 859.89,188.08 Q 860.72,191.99 856.81,192.82 L 800.08,204.88 Q 796.17,205.71 795.34,201.80 L 783.28,145.07 Q 782.44,141.15 786.36,140.32 Z" />
+    <path class="key-bg part-1" d="M 854.83,125.77 L 911.56,113.71 Q 915.47,112.88 916.30,116.79 L 928.36,173.52 Q 929.20,177.44 925.28,178.27 L 868.55,190.33 Q 864.64,191.16 863.81,187.25 L 851.75,130.51 Q 850.92,126.60 854.83,125.77 Z" />
+    <path class="key-bg part-1" d="M 923.30,111.21 L 980.03,99.16 Q 983.94,98.32 984.77,102.24 L 996.83,158.97 Q 997.67,162.88 993.75,163.71 L 937.02,175.77 Q 933.11,176.60 932.28,172.69 L 920.22,115.96 Q 919.39,112.05 923.30,111.21 Z" />
+    <path class="key-bg part-1" d="M 1006.00,95.50 L 1064.00,95.50 Q 1068.00,95.50 1068.00,99.50 L 1068.00,157.50 Q 1068.00,161.50 1064.00,161.50 L 1006.00,161.50 Q 1002.00,161.50 1002.00,157.50 L 1002.00,99.50 Q 1002.00,95.50 1006.00,95.50 Z" />
+    <path class="key-bg part-1" d="M 1076.00,99.00 L 1134.00,99.00 Q 1138.00,99.00 1138.00,103.00 L 1138.00,161.00 Q 1138.00,165.00 1134.00,165.00 L 1076.00,165.00 Q 1072.00,165.00 1072.00,161.00 L 1072.00,103.00 Q 1072.00,99.00 1076.00,99.00 Z" />
+    <path class="key-bg part-1" d="M 1146.00,99.00 L 1204.00,99.00 Q 1208.00,99.00 1208.00,103.00 L 1208.00,161.00 Q 1208.00,165.00 1204.00,165.00 L 1146.00,165.00 Q 1142.00,165.00 1142.00,161.00 L 1142.00,103.00 Q 1142.00,99.00 1146.00,99.00 Z" />
+    <path class="key-bg part-1" d="M 742.71,221.16 L 799.44,209.10 Q 803.36,208.27 804.19,212.19 L 816.25,268.92 Q 817.08,272.83 813.17,273.66 L 756.43,285.72 Q 752.52,286.55 751.69,282.64 L 739.63,225.91 Q 738.80,222.00 742.71,221.16 Z" />
+    <path class="key-bg part-1" d="M 811.18,206.61 L 867.91,194.55 Q 871.83,193.72 872.66,197.63 L 884.72,254.36 Q 885.55,258.28 881.64,259.11 L 824.90,271.17 Q 820.99,272.00 820.16,268.09 L 808.10,211.35 Q 807.27,207.44 811.18,206.61 Z" />
+    <path class="key-bg part-1" d="M 879.65,192.06 L 936.38,180.00 Q 940.30,179.17 941.13,183.08 L 953.19,239.81 Q 954.02,243.72 950.11,244.55 L 893.37,256.61 Q 889.46,257.45 888.63,253.53 L 876.57,196.80 Q 875.74,192.89 879.65,192.06 Z" />
+    <path class="key-bg part-1" d="M 948.12,177.50 L 1004.86,165.44 Q 1008.77,164.61 1009.60,168.52 L 1021.66,225.26 Q 1022.49,229.17 1018.58,230.00 L 961.84,242.06 Q 957.93,242.89 957.10,238.98 L 945.04,182.25 Q 944.21,178.33 948.12,177.50 Z" />
+    <path class="key-bg part-1" d="M 1030.50,169.00 L 1088.50,169.00 Q 1092.50,169.00 1092.50,173.00 L 1092.50,231.00 Q 1092.50,235.00 1088.50,235.00 L 1030.50,235.00 Q 1026.50,235.00 1026.50,231.00 L 1026.50,173.00 Q 1026.50,169.00 1030.50,169.00 Z" />
+    <path class="key-bg part-1" d="M 1100.50,169.00 L 1158.50,169.00 Q 1162.50,169.00 1162.50,173.00 L 1162.50,231.00 Q 1162.50,235.00 1158.50,235.00 L 1100.50,235.00 Q 1096.50,235.00 1096.50,231.00 L 1096.50,173.00 Q 1096.50,169.00 1100.50,169.00 Z" />
+    <path class="key-bg part-1" d="M 1170.50,169.00 L 1228.50,169.00 Q 1232.50,169.00 1232.50,173.00 L 1232.50,231.00 Q 1232.50,235.00 1228.50,235.00 L 1170.50,235.00 Q 1166.50,235.00 1166.50,231.00 L 1166.50,173.00 Q 1166.50,169.00 1170.50,169.00 Z" />
+    <path class="key-bg part-1" d="M 1240.50,99.00 L 1316.00,99.00 Q 1320.00,99.00 1320.00,103.00 L 1320.00,231.00 Q 1320.00,235.00 1316.00,235.00 L 1240.50,235.00 Q 1236.50,235.00 1236.50,231.00 L 1236.50,103.00 Q 1236.50,99.00 1240.50,99.00 Z" />
+    <path class="key-bg part-1" d="M 727.14,296.04 L 783.87,283.98 Q 787.78,283.15 788.62,287.06 L 800.67,343.79 Q 801.51,347.70 797.59,348.54 L 740.86,360.60 Q 736.95,361.43 736.12,357.51 L 724.06,300.78 Q 723.23,296.87 727.14,296.04 Z" />
+    <path class="key-bg part-1" d="M 795.61,281.48 L 852.34,269.42 Q 856.25,268.59 857.09,272.51 L 869.14,329.24 Q 869.98,333.15 866.06,333.98 L 809.33,346.04 Q 805.42,346.87 804.59,342.96 L 792.53,286.23 Q 791.70,282.32 795.61,281.48 Z" />
+    <path class="key-bg part-1" d="M 864.08,266.93 L 920.81,254.87 Q 924.72,254.04 925.56,257.95 L 937.61,314.68 Q 938.45,318.60 934.53,319.43 L 877.80,331.49 Q 873.89,332.32 873.06,328.41 L 861.00,271.67 Q 860.17,267.76 864.08,266.93 Z" />
+    <path class="key-bg part-1" d="M 932.55,252.38 L 989.28,240.32 Q 993.19,239.49 994.03,243.40 L 1006.09,300.13 Q 1006.92,304.04 1003.00,304.88 L 946.27,316.93 Q 942.36,317.77 941.53,313.85 L 929.47,257.12 Q 928.64,253.21 932.55,252.38 Z" />
+    <path class="key-bg part-1" d="M 1016.50,239.00 L 1074.50,239.00 Q 1078.50,239.00 1078.50,243.00 L 1078.50,301.00 Q 1078.50,305.00 1074.50,305.00 L 1016.50,305.00 Q 1012.50,305.00 1012.50,301.00 L 1012.50,243.00 Q 1012.50,239.00 1016.50,239.00 Z" />
+    <path class="key-bg part-1" d="M 1086.50,239.00 L 1144.50,239.00 Q 1148.50,239.00 1148.50,243.00 L 1148.50,301.00 Q 1148.50,305.00 1144.50,305.00 L 1086.50,305.00 Q 1082.50,305.00 1082.50,301.00 L 1082.50,243.00 Q 1082.50,239.00 1086.50,239.00 Z" />
+    <path class="key-bg part-1" d="M 1156.50,239.00 L 1267.00,239.00 Q 1271.00,239.00 1271.00,243.00 L 1271.00,301.00 Q 1271.00,305.00 1267.00,305.00 L 1156.50,305.00 Q 1152.50,305.00 1152.50,301.00 L 1152.50,243.00 Q 1152.50,239.00 1156.50,239.00 Z" />
+    <path class="key-bg part-1" d="M 1279.00,239.00 L 1337.00,239.00 Q 1341.00,239.00 1341.00,243.00 L 1341.00,301.00 Q 1341.00,305.00 1337.00,305.00 L 1279.00,305.00 Q 1275.00,305.00 1275.00,301.00 L 1275.00,243.00 Q 1275.00,239.00 1279.00,239.00 Z" />
+    <path class="key-bg part-1" d="M 724.57,368.15 L 918.25,326.98 Q 922.16,326.15 922.99,330.06 L 935.05,386.79 Q 935.88,390.71 931.97,391.54 L 738.30,432.70 Q 734.38,433.54 733.55,429.62 L 721.49,372.89 Q 720.66,368.98 724.57,368.15 Z" />
+    <path class="key-bg part-1" d="M 931.15,329.96 L 1022.12,310.63 Q 1026.03,309.80 1026.86,313.71 L 1038.92,370.44 Q 1039.75,374.35 1035.84,375.18 L 944.87,394.52 Q 940.96,395.35 940.13,391.44 L 928.07,334.71 Q 927.24,330.79 931.15,329.96 Z" />
+    <path class="key-bg part-1" d="M 1062.00,309.00 L 1155.00,309.00 Q 1159.00,309.00 1159.00,313.00 L 1159.00,371.00 Q 1159.00,375.00 1155.00,375.00 L 1062.00,375.00 Q 1058.00,375.00 1058.00,371.00 L 1058.00,313.00 Q 1058.00,309.00 1062.00,309.00 Z" />
+    <path class="key-bg part-1" d="M 1167.00,309.00 L 1260.00,309.00 Q 1264.00,309.00 1264.00,313.00 L 1264.00,371.00 Q 1264.00,375.00 1260.00,375.00 L 1167.00,375.00 Q 1163.00,375.00 1163.00,371.00 L 1163.00,313.00 Q 1163.00,309.00 1167.00,309.00 Z" />
+  </g>
+  <g>
+    <text class="key-index" x="167.00" y="43.36" font-size="26">0</text>
+    <text class="key-part part-0" x="167.00" y="70.64" font-size="18">left</text>
+    <text class="key-index" x="247.50" y="50.36" font-size="26">1</text>
+    <text class="key-part part-0" x="247.50" y="77.64" font-size="18">left</text>
+    <text class="key-index" x="317.50" y="50.36" font-size="26">2</text>
+    <text class="key-part part-0" x="317.50" y="77.64" font-size="18">left</text>
+    <text class="key-index" x="387.50" y="43.36" font-size="26">3</text>
+    <text class="key-part part-0" x="387.50" y="70.64" font-size="18">left</text>
+    <text class="key-index" x="464.92" y="60.58" font-size="26" transform="rotate(12 464.92 72.22)">4</text>
+    <text class="key-part part-0" x="464.92" y="87.86" font-size="18" transform="rotate(12 464.92 72.22)">left</text>
+    <text class="key-index" x="533.39" y="75.13" font-size="26" transform="rotate(12 533.39 86.77)">5</text>
+    <text class="key-part part-0" x="533.39" y="102.41" font-size="18" transform="rotate(12 533.39 86.77)">left</text>
+    <text class="key-index" x="601.86" y="89.69" font-size="26" transform="rotate(12 601.86 101.33)">6</text>
+    <text class="key-part part-0" x="601.86" y="116.97" font-size="18" transform="rotate(12 601.86 101.33)">left</text>
+    <text class="key-index" x="670.33" y="104.24" font-size="26" transform="rotate(12 670.33 115.88)">7</text>
+    <text class="key-part part-0" x="670.33" y="131.52" font-size="18" transform="rotate(12 670.33 115.88)">left</text>
+    <text class="key-index" x="153.00" y="113.36" font-size="26">8</text>
+    <text class="key-part part-0" x="153.00" y="140.64" font-size="18">left</text>
+    <text class="key-index" x="251.00" y="120.36" font-size="26">9</text>
+    <text class="key-part part-0" x="251.00" y="147.64" font-size="18">left</text>
+    <text class="key-index" x="338.50" y="120.36" font-size="26">10</text>
+    <text class="key-part part-0" x="338.50" y="147.64" font-size="18">left</text>
+    <text class="key-index" x="416.13" y="121.77" font-size="26" transform="rotate(12 416.13 133.41)">11</text>
+    <text class="key-part part-0" x="416.13" y="149.05" font-size="18" transform="rotate(12 416.13 133.41)">left</text>
+    <text class="key-index" x="484.60" y="136.32" font-size="26" transform="rotate(12 484.60 147.96)">12</text>
+    <text class="key-part part-0" x="484.60" y="163.60" font-size="18" transform="rotate(12 484.60 147.96)">left</text>
+    <text class="key-index" x="553.07" y="150.88" font-size="26" transform="rotate(12 553.07 162.52)">13</text>
+    <text class="key-part part-0" x="553.07" y="178.16" font-size="18" transform="rotate(12 553.07 162.52)">left</text>
+    <text class="key-index" x="621.54" y="165.43" font-size="26" transform="rotate(12 621.54 177.07)">14</text>
+    <text class="key-part part-0" x="621.54" y="192.71" font-size="18" transform="rotate(12 621.54 177.07)">left</text>
+    <text class="key-index" x="139.00" y="183.36" font-size="26">15</text>
+    <text class="key-part part-0" x="139.00" y="210.64" font-size="18">left</text>
+    <text class="key-index" x="245.75" y="190.36" font-size="26">16</text>
+    <text class="key-part part-0" x="245.75" y="217.64" font-size="18">left</text>
+    <text class="key-index" x="342.00" y="190.36" font-size="26">17</text>
+    <text class="key-part part-0" x="342.00" y="217.64" font-size="18">left</text>
+    <text class="key-index" x="422.12" y="194.61" font-size="26" transform="rotate(12 422.12 206.25)">18</text>
+    <text class="key-part part-0" x="422.12" y="221.89" font-size="18" transform="rotate(12 422.12 206.25)">left</text>
+    <text class="key-index" x="490.59" y="209.16" font-size="26" transform="rotate(12 490.59 220.80)">19</text>
+    <text class="key-part part-0" x="490.59" y="236.44" font-size="18" transform="rotate(12 490.59 220.80)">left</text>
+    <text class="key-index" x="559.06" y="223.71" font-size="26" transform="rotate(12 559.06 235.35)">20</text>
+    <text class="key-part part-0" x="559.06" y="250.99" font-size="18" transform="rotate(12 559.06 235.35)">left</text>
+    <text class="key-index" x="627.53" y="238.27" font-size="26" transform="rotate(12 627.53 249.91)">21</text>
+    <text class="key-part part-0" x="627.53" y="265.55" font-size="18" transform="rotate(12 627.53 249.91)">left</text>
+    <text class="key-index" x="125.00" y="270.86" font-size="26">22</text>
+    <text class="key-part part-0" x="125.00" y="298.14" font-size="18">left</text>
+    <text class="key-index" x="249.25" y="260.36" font-size="26">23</text>
+    <text class="key-part part-0" x="249.25" y="287.64" font-size="18">left</text>
+    <text class="key-index" x="363.00" y="260.36" font-size="26">24</text>
+    <text class="key-part part-0" x="363.00" y="287.64" font-size="18">left</text>
+    <text class="key-index" x="441.80" y="270.35" font-size="26" transform="rotate(12 441.80 281.99)">25</text>
+    <text class="key-part part-0" x="441.80" y="297.63" font-size="18" transform="rotate(12 441.80 281.99)">left</text>
+    <text class="key-index" x="510.27" y="284.91" font-size="26" transform="rotate(12 510.27 296.55)">26</text>
+    <text class="key-part part-0" x="510.27" y="312.19" font-size="18" transform="rotate(12 510.27 296.55)">left</text>
+    <text class="key-index" x="578.74" y="299.46" font-size="26" transform="rotate(12 578.74 311.10)">27</text>
+    <text class="key-part part-0" x="578.74" y="326.74" font-size="18" transform="rotate(12 578.74 311.10)">left</text>
+    <text class="key-index" x="647.21" y="314.02" font-size="26" transform="rotate(12 647.21 325.66)">28</text>
+    <text class="key-part part-0" x="647.21" y="341.30" font-size="18" transform="rotate(12 647.21 325.66)">left</text>
+    <text class="key-index" x="55.00" y="340.86" font-size="26">29</text>
+    <text class="key-part part-0" x="55.00" y="368.14" font-size="18">left</text>
+    <text class="key-index" x="125.00" y="340.86" font-size="26">30</text>
+    <text class="key-part part-0" x="125.00" y="368.14" font-size="18">left</text>
+    <text class="key-index" x="195.00" y="340.86" font-size="26">31</text>
+    <text class="key-part part-0" x="195.00" y="368.14" font-size="18">left</text>
+    <text class="key-index" x="293.00" y="330.36" font-size="26">32</text>
+    <text class="key-part part-0" x="293.00" y="357.64" font-size="18">left</text>
+    <text class="key-index" x="419.67" y="340.79" font-size="26" transform="rotate(12 419.67 352.43)">33</text>
+    <text class="key-part part-0" x="419.67" y="368.07" font-size="18" transform="rotate(12 419.67 352.43)">left</text>
+    <text class="key-index" x="574.46" y="370.12" font-size="26" transform="rotate(12 574.46 381.76)">34</text>
+    <text class="key-part part-0" x="574.46" y="397.40" font-size="18" transform="rotate(12 574.46 381.76)">left</text>
+    <text class="key-index" x="773.48" y="93.59" font-size="26" transform="rotate(-12 773.48 105.23)">35</text>
+    <text class="key-part part-1" x="773.48" y="120.87" font-size="18" transform="rotate(-12 773.48 105.23)">right</text>
+    <text class="key-index" x="841.95" y="79.04" font-size="26" transform="rotate(-12 841.95 90.68)">36</text>
+    <text class="key-part part-1" x="841.95" y="106.32" font-size="18" transform="rotate(-12 841.95 90.68)">right</text>
+    <text class="key-index" x="910.42" y="64.49" font-size="26" transform="rotate(-12 910.42 76.13)">37</text>
+    <text class="key-part part-1" x="910.42" y="91.77" font-size="18" transform="rotate(-12 910.42 76.13)">right</text>
+    <text class="key-index" x="978.89" y="49.93" font-size="26" transform="rotate(-12 978.89 61.57)">38</text>
+    <text class="key-part part-1" x="978.89" y="77.21" font-size="18" transform="rotate(-12 978.89 61.57)">right</text>
+    <text class="key-index" x="1056.00" y="43.36" font-size="26">39</text>
+    <text class="key-part part-1" x="1056.00" y="70.64" font-size="18">right</text>
+    <text class="key-index" x="1126.00" y="50.36" font-size="26">40</text>
+    <text class="key-part part-1" x="1126.00" y="77.64" font-size="18">right</text>
+    <text class="key-index" x="1231.00" y="50.36" font-size="26">41</text>
+    <text class="key-part part-1" x="1231.00" y="77.64" font-size="18">right</text>
+    <text class="key-index" x="753.11" y="169.49" font-size="26" transform="rotate(-12 753.11 181.13)">42</text>
+    <text class="key-part part-1" x="753.11" y="196.77" font-size="18" transform="rotate(-12 753.11 181.13)">right</text>
+    <text class="key-index" x="821.58" y="154.93" font-size="26" transform="rotate(-12 821.58 166.57)">43</text>
+    <text class="key-part part-1" x="821.58" y="182.21" font-size="18" transform="rotate(-12 821.58 166.57)">right</text>
+    <text class="key-index" x="890.06" y="140.38" font-size="26" transform="rotate(-12 890.06 152.02)">44</text>
+    <text class="key-part part-1" x="890.06" y="167.66" font-size="18" transform="rotate(-12 890.06 152.02)">right</text>
+    <text class="key-index" x="958.53" y="125.82" font-size="26" transform="rotate(-12 958.53 137.46)">45</text>
+    <text class="key-part part-1" x="958.53" y="153.10" font-size="18" transform="rotate(-12 958.53 137.46)">right</text>
+    <text class="key-index" x="1035.00" y="116.86" font-size="26">46</text>
+    <text class="key-part part-1" x="1035.00" y="144.14" font-size="18">right</text>
+    <text class="key-index" x="1105.00" y="120.36" font-size="26">47</text>
+    <text class="key-part part-1" x="1105.00" y="147.64" font-size="18">right</text>
+    <text class="key-index" x="1175.00" y="120.36" font-size="26">48</text>
+    <text class="key-part part-1" x="1175.00" y="147.64" font-size="18">right</text>
+    <text class="key-index" x="777.94" y="235.77" font-size="26" transform="rotate(-12 777.94 247.41)">49</text>
+    <text class="key-part part-1" x="777.94" y="263.05" font-size="18" transform="rotate(-12 777.94 247.41)">right</text>
+    <text class="key-index" x="846.41" y="221.22" font-size="26" transform="rotate(-12 846.41 232.86)">50</text>
+    <text class="key-part part-1" x="846.41" y="248.50" font-size="18" transform="rotate(-12 846.41 232.86)">right</text>
+    <text class="key-index" x="914.88" y="206.67" font-size="26" transform="rotate(-12 914.88 218.31)">51</text>
+    <text class="key-part part-1" x="914.88" y="233.95" font-size="18" transform="rotate(-12 914.88 218.31)">right</text>
+    <text class="key-index" x="983.35" y="192.11" font-size="26" transform="rotate(-12 983.35 203.75)">52</text>
+    <text class="key-part part-1" x="983.35" y="219.39" font-size="18" transform="rotate(-12 983.35 203.75)">right</text>
+    <text class="key-index" x="1059.50" y="190.36" font-size="26">53</text>
+    <text class="key-part part-1" x="1059.50" y="217.64" font-size="18">right</text>
+    <text class="key-index" x="1129.50" y="190.36" font-size="26">54</text>
+    <text class="key-part part-1" x="1129.50" y="217.64" font-size="18">right</text>
+    <text class="key-index" x="1199.50" y="190.36" font-size="26">55</text>
+    <text class="key-part part-1" x="1199.50" y="217.64" font-size="18">right</text>
+    <text class="key-index" x="1278.25" y="152.16" font-size="33">56</text>
+    <text class="key-part part-1" x="1278.25" y="186.84" font-size="23">right</text>
+    <text class="key-index" x="762.37" y="310.65" font-size="26" transform="rotate(-12 762.37 322.29)">57</text>
+    <text class="key-part part-1" x="762.37" y="337.93" font-size="18" transform="rotate(-12 762.37 322.29)">right</text>
+    <text class="key-index" x="830.84" y="296.09" font-size="26" transform="rotate(-12 830.84 307.73)">58</text>
+    <text class="key-part part-1" x="830.84" y="323.37" font-size="18" transform="rotate(-12 830.84 307.73)">right</text>
+    <text class="key-index" x="899.31" y="281.54" font-size="26" transform="rotate(-12 899.31 293.18)">59</text>
+    <text class="key-part part-1" x="899.31" y="308.82" font-size="18" transform="rotate(-12 899.31 293.18)">right</text>
+    <text class="key-index" x="967.78" y="266.99" font-size="26" transform="rotate(-12 967.78 278.63)">60</text>
+    <text class="key-part part-1" x="967.78" y="294.27" font-size="18" transform="rotate(-12 967.78 278.63)">right</text>
+    <text class="key-index" x="1045.50" y="260.36" font-size="26">61</text>
+    <text class="key-part part-1" x="1045.50" y="287.64" font-size="18">right</text>
+    <text class="key-index" x="1115.50" y="260.36" font-size="26">62</text>
+    <text class="key-part part-1" x="1115.50" y="287.64" font-size="18">right</text>
+    <text class="key-index" x="1211.75" y="260.36" font-size="26">63</text>
+    <text class="key-part part-1" x="1211.75" y="287.64" font-size="18">right</text>
+    <text class="key-index" x="1308.00" y="260.36" font-size="26">64</text>
+    <text class="key-part part-1" x="1308.00" y="287.64" font-size="18">right</text>
+    <text class="key-index" x="828.27" y="368.20" font-size="26" transform="rotate(-12 828.27 379.84)">65</text>
+    <text class="key-part part-1" x="828.27" y="395.48" font-size="18" transform="rotate(-12 828.27 379.84)">right</text>
+    <text class="key-index" x="983.49" y="340.93" font-size="26" transform="rotate(-12 983.49 352.57)">66</text>
+    <text class="key-part part-1" x="983.49" y="368.21" font-size="18" transform="rotate(-12 983.49 352.57)">right</text>
+    <text class="key-index" x="1108.50" y="330.36" font-size="26">67</text>
+    <text class="key-part part-1" x="1108.50" y="357.64" font-size="18">right</text>
+    <text class="key-index" x="1213.50" y="330.36" font-size="26">68</text>
+    <text class="key-part part-1" x="1213.50" y="357.64" font-size="18">right</text>
+  </g>
+</svg>
